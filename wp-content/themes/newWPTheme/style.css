@@ -1,0 +1,11 @@
+/*
+ Theme Name:   newWPTheme
+ Theme URI:    localhost
+ Description:  A twenty seventeen child theme 
+ Author:       system
+ Author URI:   localhost
+ Template:     twentysixteen
+ Version:      1.0.0
+*/
+
+@import url("../twentysixteen/style.css");
